@@ -4,7 +4,7 @@ This repository consists of three parts:
 
 A. Colab Notebooks: This folder contains Jupyter Notebooks that built our deep learning model. 
 - Comparing models.ipynb extracts data and compares different types of CNN models to choose the most potential one. 
-- Final code.inynb is repeatedly run to find our chosen model with the best prediction. 
+- Final code.inynb is repeatedly run on our chosen model to find the best prediction.
 
 B. SkyWatcher: This folder contains codes to deploy our model and demo. 
 - ESP32 code: embedded microcontroller code. 
